@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		E54C442021A40DDA00C27B3F /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E54C441F21A40DDA00C27B3F /* MainViewController.swift */; };
 		E54C442421A41FDF00C27B3F /* GithubLoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E54C442321A41FDF00C27B3F /* GithubLoginViewController.swift */; };
+		E54C442821A4261300C27B3F /* DashboardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E54C442721A4261300C27B3F /* DashboardViewController.swift */; };
 		E5C2B1F121A3E48300AE1BA2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5C2B1F021A3E48300AE1BA2 /* AppDelegate.swift */; };
 		E5C2B1F321A3E48300AE1BA2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5C2B1F221A3E48300AE1BA2 /* ViewController.swift */; };
 		E5C2B1F621A3E48300AE1BA2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E5C2B1F421A3E48300AE1BA2 /* Main.storyboard */; };
@@ -38,6 +39,7 @@
 /* Begin PBXFileReference section */
 		E54C441F21A40DDA00C27B3F /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		E54C442321A41FDF00C27B3F /* GithubLoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GithubLoginViewController.swift; sourceTree = "<group>"; };
+		E54C442721A4261300C27B3F /* DashboardViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DashboardViewController.swift; sourceTree = "<group>"; };
 		E5C2B1ED21A3E48300AE1BA2 /* GithubDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GithubDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E5C2B1F021A3E48300AE1BA2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E5C2B1F221A3E48300AE1BA2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 		E5C2B1EF21A3E48300AE1BA2 /* GithubDemo */ = {
 			isa = PBXGroup;
 			children = (
+				E54C442721A4261300C27B3F /* DashboardViewController.swift */,
 				E5C2B1F021A3E48300AE1BA2 /* AppDelegate.swift */,
 				E5C2B1F221A3E48300AE1BA2 /* ViewController.swift */,
 				E5C2B1F421A3E48300AE1BA2 /* Main.storyboard */,
@@ -264,6 +267,7 @@
 			files = (
 				E54C442021A40DDA00C27B3F /* MainViewController.swift in Sources */,
 				E54C442421A41FDF00C27B3F /* GithubLoginViewController.swift in Sources */,
+				E54C442821A4261300C27B3F /* DashboardViewController.swift in Sources */,
 				E5C2B1F321A3E48300AE1BA2 /* ViewController.swift in Sources */,
 				E5C2B1F121A3E48300AE1BA2 /* AppDelegate.swift in Sources */,
 			);
