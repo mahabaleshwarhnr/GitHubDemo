@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E54C442221A40DFC00C27B3F /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E54C442121A40DFC00C27B3F /* MainViewController.swift */; };
 		E5C2B1F121A3E48300AE1BA2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5C2B1F021A3E48300AE1BA2 /* AppDelegate.swift */; };
 		E5C2B1F321A3E48300AE1BA2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5C2B1F221A3E48300AE1BA2 /* ViewController.swift */; };
 		E5C2B1F621A3E48300AE1BA2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E5C2B1F421A3E48300AE1BA2 /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E54C442121A40DFC00C27B3F /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		E5C2B1ED21A3E48300AE1BA2 /* GithubDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GithubDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E5C2B1F021A3E48300AE1BA2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E5C2B1F221A3E48300AE1BA2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				E5C2B1F721A3E48600AE1BA2 /* Assets.xcassets */,
 				E5C2B1F921A3E48600AE1BA2 /* LaunchScreen.storyboard */,
 				E5C2B1FC21A3E48600AE1BA2 /* Info.plist */,
+				E54C442121A40DFC00C27B3F /* MainViewController.swift */,
 			);
 			path = GithubDemo;
 			sourceTree = "<group>";
@@ -256,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E54C442221A40DFC00C27B3F /* MainViewController.swift in Sources */,
 				E5C2B1F321A3E48300AE1BA2 /* ViewController.swift in Sources */,
 				E5C2B1F121A3E48300AE1BA2 /* AppDelegate.swift in Sources */,
 			);
